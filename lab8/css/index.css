@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: #d0d3ff;
+    padding: 50px;
+    font-size: 120%;
+}
+
+div#content {
+    padding: 25px;
+    background-color: #d5ffd0;
+    border: solid 10px #333333;
+    height: 150vh;
+}
+
+div.lab-purpose {
+    padding: 25px;
+    background-color: #d5ffd0;
+    border: solid 10px #333333;
+    height: 80vh;
+
+h1, h2, h3 {
+    font-family: "Georgia", monospace;
+    text-decoration: underline;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    text-decoration: underline;
+    color: lightblue;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
