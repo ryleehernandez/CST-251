@@ -1,0 +1,54 @@
+body {
+    font-family: Helvetica, Verdana, Arial, "san serif";
+    background-color: #ffedcd;
+    padding: 50px;
+    font-size: 120%;
+}
+
+div#content {
+    padding: 25px;
+    background-color: #e9967a;
+    height: 150vh;
+    border-style: dotted dashed solid double;
+
+
+}
+
+
+div.lab-purpose {
+    padding: 25px;
+    background-color: #faebd7;
+    border: dotted 10px #333333;
+    height: fit-content;
+
+
+
+}
+
+div.dogs {
+    margin-top:100px;
+    margin-left: 125px;
+    margin-right: 100px;
+    border: dotted #333333;
+    padding: 30px;
+}
+h1, h2, h3 {
+    font-family: "Georgia", monospace;
+    text-decoration: underline;
+}
+.content {
+  margin-top: 50px
+
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    text-decoration: underline;
+    color: lightblue;
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
