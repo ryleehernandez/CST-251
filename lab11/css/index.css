@@ -1,49 +1,62 @@
 body {
     font-family: "Comic Sans MS", cursive, sans-serif;
-    background-color: #ecddf0;
+    background-color: #e7f0dd;
     padding: 50px;
     font-size: 120%;
     text-transform: lowercase;
     color: #469684;
+    border-style: dotted dashed solid double;
+    width: 90%;
 
 }
 
+div.lab-purpose {
+    padding: 30px;
+    height: fit-content;
+
+
+}
 div#content {
     padding: 25px;
-    background-color: #f0f8ff;
-    height: 150vh;
+    background-color: #f5fff6;
+    height: 100vh;
+    width: 160vh;
     border-style: dotted dashed solid double;
 
 
 }
 
+nav#links {
+    position: sticky;
+    top: 0px;
 
-div.lab-purpose {
-    padding: 25px;
-    background-color: #f0f8ff;
-    border: dotted 10px #ffb4b4;
-    height: fit-content;
 
 
 }
 
-div.dogs {
-    margin-top:100px;
-    margin-left: 125px;
-    margin-right: 100px;
-    border: dotted #333333;
-    padding: 30px;
+aside#sidebar {
+    display: inline-block;
+    min-width: 300px;
+    float: right;
+    color: #333333;
+    font-family: 'Barriecito';
+    text-transform: capitalize;
+    font-size: 23px;
+
+
 }
+
 h2, h3 {
     font-family: "Courier New", Courier, monospace;
     text-decoration: underline;
     letter-spacing: 5px;
+    color: #8f6392;
 }
 
 h1 {
     font-family: 'Barriecito';
     text-transform: uppercase;
-    color: #ca4525
+    color: #000000;
 
 
 }
@@ -65,5 +78,9 @@ img {
 
 a {
     text-decoration: underline;
-    
+    color: #000000;
+
 }
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
