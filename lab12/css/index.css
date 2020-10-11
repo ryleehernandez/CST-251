@@ -1,0 +1,121 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: #dfeeef;
+    padding: 50px;
+    font-size: 120%;
+    text-transform: lowercase;
+    color: #efb44a;
+    border-style: dotted dashed solid double;
+    width: 90%;
+
+}
+
+div.lab-purpose {
+    padding: 30px;
+    height: fit-content;
+
+
+}
+div#content {
+    padding: 25px;
+    background-color: #f5fff6;
+    height: 100vh;
+    width: 160vh;
+    border-style: dotted dashed solid double;
+
+
+}
+
+div#floated {
+    float: right;
+    width:25%;
+    border:2px solid black;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+
+}
+
+div#center-horz {
+    margin: auto;
+    width: 25%;
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+
+}
+
+div#center-img {
+    margin: auto;
+    width: 30%;
+    text-align: center;
+
+}
+
+div#center-both {
+    margin: auto;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+nav#links {
+    position: sticky;
+    top: 0px;
+
+
+
+}
+
+aside#sidebar {
+    display: inline-block;
+    min-width: 300px;
+    float: right;
+    color: #333333;
+    font-family: 'Barriecito';
+    text-transform: capitalize;
+    font-size: 23px;
+
+
+}
+
+h2, h3 {
+    font-family: "Courier New", Courier, monospace;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    color: #1a5475;
+}
+
+h1 {
+    font-family: 'Barriecito';
+    text-transform: uppercase;
+    color: #1a5475;
+
+
+}
+p {
+    color: #333333;
+    font-family: 'Barriecito';
+    text-transform: none;
+    font-size: 23px;
+
+
+.content {
+  margin-top: 50px
+
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    text-decoration: underline;
+    color: #000000;
+
+}
+a:hover {
+    text-decoration: underline;
+    text-decoration-style: wavy;
