@@ -1,0 +1,27 @@
+body {
+    background-image: url(../img/circle.png);
+    background-color: red;
+
+
+}
+
+h2{
+    font-family: "Times New Roman", sans-serif;
+    font-size: 200px;
+    color: white;
+
+}
+
+
+.neobi h2{
+    left: 0;
+    line-height: 200px; 
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+
+
+
+
+}
