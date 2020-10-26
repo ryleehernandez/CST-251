@@ -1,0 +1,102 @@
+
+body {
+    background-color: white;
+    font-family: "Arial", sans-serif;
+
+}
+
+
+
+p1 {
+    color: #eaea6a;
+
+
+}
+
+p2 {
+    color: #ff7d56;
+
+
+
+}
+
+p3 {
+    color: #4abdbd;
+
+
+
+}
+
+p4 {
+    color: #d86464;
+
+
+
+}
+
+p5 {
+    color: #5a5a56;
+
+
+}
+
+.hello {
+    font-family: "Arial", sans-serif;
+    left: 0;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-stretch: extra-condensed;
+    font-size: 200px;
+    font-weight: bold;
+
+
+}
+
+.hello2 {
+    left:0;
+    line-height: 450px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    font-family: "Arial", sans-serif;
+    font-size: 40px;
+    font-stretch: condensed;
+
+
+}
+
+.topnav {
+  background-color: white;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+
+.topnav a.active {
+  color: black;
+  text-decoration: underline;
+}
+
+
+
+
+
+
+}
