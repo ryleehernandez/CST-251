@@ -1,0 +1,69 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: #ecddf0;
+    padding: 50px;
+    font-size: 120%;
+    text-transform: lowercase;
+    color: #469684;
+
+}
+
+div#content {
+    padding: 25px;
+    background-color: #f0f8ff;
+    height: 150vh;
+    border-style: dotted dashed solid double;
+
+
+}
+
+
+div.lab-purpose {
+    padding: 25px;
+    background-color: #f0f8ff;
+    border: dotted 10px #ffb4b4;
+    height: fit-content;
+
+
+}
+
+div.dogs {
+    margin-top:100px;
+    margin-left: 125px;
+    margin-right: 100px;
+    border: dotted #333333;
+    padding: 30px;
+}
+h2, h3 {
+    font-family: "Courier New", Courier, monospace;
+    text-decoration: underline;
+    letter-spacing: 5px;
+}
+
+h1 {
+    font-family: 'Barriecito';
+    text-transform: uppercase;
+    color: #ca4525
+
+
+}
+p {
+    color: #333333;
+    font-family: 'Barriecito';
+    text-transform: none;
+    font-size: 23px;
+
+
+.content {
+  margin-top: 50px
+
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    text-decoration: underline;
+
+}

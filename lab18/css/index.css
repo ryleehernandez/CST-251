@@ -1,0 +1,56 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  font-size: 30px;
+  float: center;
+  padding-left: 500px;
+
+
+}
+
+.content {
+  border: solid 05px #333333;
+
+
+
+}
+
+.links {
+  float: left;
+  border: dotted 02px;
+  padding-left: 50px;
+  padding-right: 26px;
+  padding-top: 50px;
+  padding-bottom: 35px;
+
+}
+
+.lab {
+  float: center;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right: 400px;
+  border: dotted 02px;
+  font-size: 25px;
+  display: flex;
+
+
+}
+
+.flex {
+  display: flex;
+
+}
+
+.sunset {
+  text-align: center;
+
+
+}
+
+.ditch {
+  text-align: left;
+  padding: 100px;
+
+
+}

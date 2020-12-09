@@ -1,0 +1,20 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background:
+  color: white;
+  font-size: 30px;
+
+
+}
+
+.content {
+  border: solid 05px #333333;
+
+}
+
+.links {
+  float: left;
+  border: dashed 02px;
+
+}
